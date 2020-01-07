@@ -78,7 +78,7 @@
 }
 .instructions {
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   margin: 5px;
   padding: 10px;
   font-style: italic;
@@ -95,6 +95,8 @@
 }
 .title {
   color: #61dbfb;
+  font-size: 18px;
+  font-weight: bold;
 }
 .stepsWrapper {
   outline: none;
