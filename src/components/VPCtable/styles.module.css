@@ -1,0 +1,26 @@
+.fullListContainer {
+    margin-top: 10px;
+    height: 95vh;
+}
+
+.halfListContainer {
+    margin-top: 10px;
+    height: calc(47.5vh - 5px) !important;
+}
+
+.smallHeader {
+    padding: 0.5rem 1.25rem !important;
+    height: 40px;
+}
+
+.itemList {
+    max-height: 100%;
+    overflow-y:auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.noLineBreak {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
