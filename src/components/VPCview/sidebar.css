@@ -69,7 +69,7 @@
 
 /* Styling of overlay */
 .bm-overlay {
-  background: rgba(0, 0, 0, 0.76);
+  background: rgba(0, 0, 0, 0.76) !important;
 }
 
 .allign {

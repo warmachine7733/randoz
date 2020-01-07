@@ -40,7 +40,7 @@ class VPCView extends React.Component {
               </div>
             </div>
             <div className="stepOne">
-              <div className="title">Step one:</div>
+              <div className="title">Step two:</div>
               <div className="instructions">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
@@ -55,7 +55,7 @@ class VPCView extends React.Component {
               </div>
             </div>
             <div className="stepOne">
-              <div className="title">Step one:</div>
+              <div className="title">Step three:</div>
               <div className="instructions">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy

@@ -1,0 +1,21 @@
+[debug] [2020-01-07T12:08:38.976Z] ----------------------------------------------------------------------
+[debug] [2020-01-07T12:08:38.983Z] Command:       /home/prateek/.nvm/versions/node/v8.16.1/bin/node /home/prateek/.nvm/versions/node/v8.16.1/bin/firebase init
+[debug] [2020-01-07T12:08:38.984Z] CLI Version:   7.5.0
+[debug] [2020-01-07T12:08:38.984Z] Platform:      linux
+[debug] [2020-01-07T12:08:38.984Z] Node Version:  v8.16.1
+[debug] [2020-01-07T12:08:38.984Z] Time:          Tue Jan 07 2020 17:38:38 GMT+0530 (IST)
+[debug] [2020-01-07T12:08:38.984Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2020-01-07T12:08:39.029Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-01-07T12:08:39.029Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/prateek/Documents/Prateek
+
